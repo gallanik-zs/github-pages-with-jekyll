@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "AWS Teacher"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here you will find answers to the most 'not-answered' quetions ...
